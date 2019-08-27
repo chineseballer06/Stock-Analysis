@@ -13,14 +13,14 @@ Being an investor who has a portfolio of over 30 individual stocks, I have alway
 ## Data
 
 
-The data used for this notebook are historical stock prices for Apple(APPL) and Frontdoor Inc.(FTDR) using a very helpful package called pandas-datareader which you can read more about [here](https://pypi.org/project/pandas-datareader/). Using this package is pretty straighforward and you end up with a nice dataframe of all the historical prices that you want.
+The data used for this notebook are historical stock prices for Apple(AAPL) and Frontdoor Inc.(FTDR) using a very helpful package called pandas-datareader which you can read more about [here](https://pypi.org/project/pandas-datareader/). Using this package is pretty straighforward and you end up with a nice dataframe of all the historical prices that you want.
 
 
 
 ![](data_image.png)
 
 
-![](APPL_hist_prices.png)
+![](AAPL_hist_prices.png)
 
 
 
