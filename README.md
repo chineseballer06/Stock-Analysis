@@ -5,7 +5,7 @@
 ## Intro
 
 
-Being an investor that has a portfolio of over 30 individual stocks, I have always been interested in how Data Science and Machine Learning can be used to analyze and predict stock prices. This notebook is the start of my exploration of this concept.
+Being an investor who has a portfolio of over 30 individual stocks, I have always been interested in how Data Science and Machine Learning can be used to analyze and predict stock prices. This notebook is the start of my exploration of this concept.
 
 
 
@@ -13,7 +13,7 @@ Being an investor that has a portfolio of over 30 individual stocks, I have alwa
 ## Data
 
 
-The data used for this notebook were the historical stock prices for Apple (APPL) and Frontdoor Inc. (FTDR) using a very helpful package called pandas-datareader which you can read more about [here](https://pypi.org/project/pandas-datareader/). Using this package is pretty straighforward and you end up with a nice dataframe of all historical prices that you want.
+The data used for this notebook are historical stock prices for Apple(APPL) and Frontdoor Inc.(FTDR) using a very helpful package called pandas-datareader which you can read more about [here](https://pypi.org/project/pandas-datareader/). Using this package is pretty straighforward and you end up with a nice dataframe of all the historical prices that you want.
 
 
 
@@ -58,6 +58,7 @@ Remember that there are many other factors that go into the pricing of a stock r
 - Look at other time series models such as ARIMA models
 - Explore current data with moving average charts
 - Research/experiment with different ranges of historical data to use (10, 5, 3 years)
+- Combining other data(economical and social) along with deep learning 
 
 
 
