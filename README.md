@@ -33,7 +33,7 @@ The data used for this notebook are historical stock prices for Apple(APPL) and 
 
 
 
-Using the price data for a given company, the idea is to then gather the annual mean and standard deviation in order to be used in a Monte Carlo simulation to produce a random walk which gives a possible price outcome over the desired time frame. Then by running thousands of these simulations, a distribution is created with all of the final closing prices which then gives a good representation of all the possible outcomes resulting in the simulation. 
+Using the price data for a given company, the idea is to then gather the annual mean (CAGR) and standard deviation (Annualized Volatility) in order to be used in a Monte Carlo simulation to produce a random walk which gives a possible price outcome over the desired time frame. Then by running thousands of these simulations, a distribution is created with all of the final closing prices which then gives a good representation of all the possible outcomes resulting in the simulation. 
 
 ![](monte_carlo_charts.png)
 
