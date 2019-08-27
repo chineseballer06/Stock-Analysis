@@ -28,7 +28,8 @@ The data used for this notebook were the historical stock prices for Apple (APPL
 
 
 **What is a Monte Carlo Simulation?**
-"Monte Carlo simulations are used to model the probability of different outcomes in a process that cannot easily be predicted due to the intervention of random variables. It is a technique used to understand the impact of risk and uncertainty in prediction and forecasting models." [source](https://www.investopedia.com/terms/m/montecarlosimulation.asp)
+
+"Monte Carlo simulations are used to model the probability of different outcomes in a process that cannot easily be predicted due to the intervention of random variables. It is a technique used to understand the impact of risk and uncertainty in prediction and forecasting models." [Investopedia](https://www.investopedia.com/terms/m/montecarlosimulation.asp)
 
 
 
