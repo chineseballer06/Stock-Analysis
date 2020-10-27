@@ -18,7 +18,7 @@ Click==7.0
 click-plugins==1.1.1
 cligj==0.5.0
 convertdate==2.1.3
-cryptography==2.3.1
+cryptography==3.2
 cryptography-vectors==2.3.1
 cvxpy==1.0.21
 cycler==0.10.0
