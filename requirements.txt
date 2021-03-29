@@ -107,7 +107,7 @@ py4j==0.10.7
 pycparser==2.18
 pydot==1.4.1
 pydotplus==2.0.2
-Pygments==2.2.0
+Pygments==2.7.4
 pyOpenSSL==18.0.0
 pyparsing==2.3.1
 pyproj==2.2.0
