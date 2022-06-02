@@ -42,7 +42,7 @@ graphviz==0.10.1
 grpcio==1.19.0
 h5py==2.8.0
 holidays==0.9.10
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.7
 imbalanced-learn==0.4.3
 ipykernel==5.1.0
