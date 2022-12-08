@@ -11,7 +11,7 @@ boto==2.49.0
 boto3==1.9.111
 botocore==1.12.112
 branca==0.3.1
-certifi==2019.3.9
+certifi==2022.12.7
 cffi==1.11.5
 chardet==3.0.4
 Click==7.0
